@@ -1,0 +1,21 @@
+# baseURL = "https://carrickfergusmencap.org.uk/"
+languageCode = "en"
+defaultContentLanguage = "en"
+
+enableEmoji = true
+disableKinds = ["taxonomy", "term"]
+
+[params.author]
+
+
+  links = [
+    { email = "mailto:info@carrickfergusmencap.org.uk" },
+    { charitycommissionni = {href="https://www.charitycommissionni.org.uk/charity-details/?regid=101253&subid=0", text = "Charity Commission NI", icon="charitycommissionni"}},
+    { facebook = "https://facebook.com/carrickfergusmencap" },
+    { linkedin = "https://linkedin.com/in/carrickfergusmencap" },
+  ]
+
+[module]
+  [module.hugoVersion]
+    extended = false
+    min = "0.86.1"
