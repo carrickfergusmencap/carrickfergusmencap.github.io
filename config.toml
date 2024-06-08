@@ -11,7 +11,7 @@ disableKinds = ["taxonomy", "term"]
     { email = "mailto:info@carrickfergusmencap.org.uk" },
     { charitycommissionni = {href="https://www.charitycommissionni.org.uk/charity-details/?regid=101253&subid=0", text = "Charity Commission NI", icon="charitycommissionni"}},
     { facebook = "https://www.facebook.com/profile.php?id=61560469091932" },
-    { linkedin = "hhttps://www.linkedin.com/company/carrickfergusmencap/" },
+    { linkedin = "https://www.linkedin.com/company/carrickfergusmencap/" },
   ]
 
 [module]
