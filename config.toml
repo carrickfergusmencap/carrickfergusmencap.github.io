@@ -10,8 +10,8 @@ disableKinds = ["taxonomy", "term"]
   links = [
     { email = "mailto:info@carrickfergusmencap.org.uk" },
     { charitycommissionni = {href="https://www.charitycommissionni.org.uk/charity-details/?regid=101253&subid=0", text = "Charity Commission NI", icon="charitycommissionni"}},
-    { facebook = "https://facebook.com/carrickfergusmencap" },
-    { linkedin = "https://linkedin.com/in/carrickfergusmencap" },
+    { facebook = "https://www.facebook.com/profile.php?id=61560469091932" },
+    { linkedin = "hhttps://www.linkedin.com/company/carrickfergusmencap/" },
   ]
 
 [module]
