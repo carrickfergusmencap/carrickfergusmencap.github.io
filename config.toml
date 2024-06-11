@@ -6,6 +6,7 @@ enableEmoji = true
 disableKinds = ["taxonomy", "term"]
 
 [params.author]
+# copyright = Registered with the Charity Commission for Northern Ireland NIC101253
 
   links = [
     { email = "mailto:info@carrickfergusmencap.org.uk" },
