@@ -3,10 +3,10 @@
     background: #0099c4 
 }
 
-img
+img,video
 {
-    display:inline !important
-    background-color:white !important
-    text-align:center !important
-    vertical-align:center !important
+    max-width: 100%
+    height: auto;
+    margin-left: auto;
+    margin-right:auto;
 }
